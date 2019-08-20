@@ -1,0 +1,14 @@
+<site name="demoold" path="demoold">
+    <title><![CDATA[Классический]]></title>
+    <description><![CDATA[Ставший привычным интернет-магазин по продаже хомячков на tpl-шаблонизаторе. При наполнении использовано большинство модулей и макросов, так что этот сайт станет хорошим помощником в глубоком изучении функционала UMI.CMS.]]></description>
+    <preview>http://install.umi-cms.ru/preview/demoold.png</preview>
+    <supported-licenses>
+        <license>start</license>
+        <license>lite</license>
+        <license>corporate</license>
+        <license>business</license>
+        <license>shop</license>
+        <license>commerce</license>
+        <license>commerce_enc</license>
+    </supported-licenses>
+</site>
